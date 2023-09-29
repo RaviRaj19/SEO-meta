@@ -1,0 +1,38 @@
+What is SEO and explain the importance of SEO?
+
+----> SEO has two main goals. 
+      The first is to help you understand what users are searching for online so that you can create high-quality content to satisfy their intent. 
+      The second is to help you create a website that search engines can find, index, and understand its content.
+
+      The most important SEO tasks have to do with:
+
+       Identifying what users are searching for that is related to your products and services
+       Creating content that will make users happy
+       Providing the right signals to search engine crawlers and algorithms through various SEO techniques
+
+
+What are benefits of using meta tags?
+
+----> HTML <meta> tag is used to represent the metadata about the HTML document. 
+It specifies page description, keywords, copyright, language, author of the documents, etc.
+The metadata does not display on the webpage, but it is used by search engines, 
+browsers and other web services which scan the site or webpage to know about the webpage.
+With the help of meta tag, you can experiment and preview that how your webpage will render on the browser.
+The <meta> tag is placed within the <head> tag, and it can be used more than one times in a document.
+
+Benefits of meta tag :-
+1. Specifying Important Keywords
+2. Automatic Refresh
+3. Specifying Author of the Webpage
+4. Providing a Description of the web page: A brief description of the web page can be
+
+
+ Define Favicon and give an illustrative example?
+
+ A favicon is a small image displayed next to the page title in the browser tab.
+
+ here is an example of favicon :-
+ <head>
+    <title>Programiz: Learn to Code for Free!</title>
+    <link rel="shortcut icon" href="favicon.png">
+</head>
